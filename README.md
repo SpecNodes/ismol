@@ -5,10 +5,8 @@ A telegram bot is used to dispatch commands to manage the URLs and an N8N webhoo
 
 ![72](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)![](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
-![[Pasted image 20260408231726.png]]
+<img width="1019" height="730" alt="Pasted image 20260408231726" src="https://github.com/user-attachments/assets/9d9762aa-0931-4b6f-99ef-e7f57afa0cff" />
 
-```table-of-contents
-```
 ## Getting Started
 
 ### Prerequisites
